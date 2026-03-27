@@ -90,4 +90,4 @@ This project is private and proprietary.
 
 ## Author
 
-[@Petter0x1]
+@Petter0x1
